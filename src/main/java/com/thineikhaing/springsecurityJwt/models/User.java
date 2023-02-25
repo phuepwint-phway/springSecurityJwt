@@ -1,6 +1,5 @@
 package com.thineikhaing.springsecurityJwt.models;
 
-
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
 import lombok.Getter;
