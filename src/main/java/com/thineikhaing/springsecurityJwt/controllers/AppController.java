@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AppController {
 
-    @RequestMapping("/")
-    public String home() {
-        return "Spring Boot Application - JWT Authentication";
-    }
+//    @RequestMapping("/")
+//    public String home() {
+//        return "Spring Boot Application - JWT Authentication";
+//    }
 }
